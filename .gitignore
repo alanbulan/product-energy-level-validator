@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.coverage
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+*.xlsx
+!*.xlsx
+.env
+*.log
+temp/
+test_*.xlsx
